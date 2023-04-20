@@ -5,8 +5,8 @@
 [![Linkedln](https://img.shields.io/badge/linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matasoff/)
 [![YouTube](https://img.shields.io/static/v1?style=flat-square&message=youtube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label=)](https://www.youtube.com/playlist?list=PLoRecSpuX3mW6philcR22vSKK72txna5w)
 [![CV](https://img.shields.io/static/v1?style=flat-square&message=cv&color=50AFCE&logo=Canva&logoColor=white&label=)](https://www.canva.com/design/DAFHajYHKog/iBupZrL591GzOYTccpyvxQ/view?utm_content=DAFHajYHKog&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-[![LeetCode](https://img.shields.io/static/v1?style=flat-square&message=LeetCode&color=222222&logo=LeetCode&logoColor=FFA116&label=)](https://leetcode.com/matasoff/)
-[![SoundCloud](https://img.shields.io/static/v1?style=flat-square&message=SoundCloud&color=FF3300&logo=SoundCloud&logoColor=FFFFFF&label=)](https://soundcloud.com/zero-point-of-view/sets/selected)
+[![LeetCode](https://img.shields.io/static/v1?style=flat-square&message=leetcode&color=222222&logo=LeetCode&logoColor=FFA116&label=)](https://leetcode.com/matasoff/)
+[![SoundCloud](https://img.shields.io/static/v1?style=flat-square&message=soundcloud&color=FF3300&logo=SoundCloud&logoColor=FFFFFF&label=)](https://soundcloud.com/zero-point-of-view/sets/selected)
 
 
 ```python
