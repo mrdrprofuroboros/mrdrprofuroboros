@@ -1,16 +1,16 @@
-### Hi there 👋
+### < Hello, World! 👋 />
 
-<!--
-**mrdrprofuroboros/mrdrprofuroboros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![telegram](https://img.shields.io/static/v1?style=flat-square&message=telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=)](https://t.me/matasoff)
+[![mail](https://img.shields.io/badge/gmail-c14438?style=flat-square&message=gmail&logo=Gmail&logoColor=white&link=mailto:dmatasoff@gmail.com)](mailto:dmatasoff@gmail.com)
+[![Linkedln](https://img.shields.io/badge/linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matasoff/)
+[![YouTube](https://img.shields.io/static/v1?style=flat-square&message=youtube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label=)](https://www.youtube.com/playlist?list=PLoRecSpuX3mW6philcR22vSKK72txna5w)
+[![CV](https://img.shields.io/static/v1?style=flat-square&message=cv&color=222222&logo=Canva&logoColor=00C4CC&label=)](https://www.canva.com/design/DAFHajYHKog/iBupZrL591GzOYTccpyvxQ/view?utm_content=DAFHajYHKog&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+[![SoundCloud](https://img.shields.io/static/v1?style=flat-square&message=SoundCloud&color=FF3300&logo=SoundCloud&logoColor=FFFFFF&label=)](https://soundcloud.com/zero-point-of-view/sets/selected)
 
-Here are some ideas to get you started:
+<div id="header" align="center">
+  <img src="https://i.kym-cdn.com/photos/images/original/001/010/572/5e5.gif" width="100%" height="400px"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<samp>Check out my repos ⬇️</samp>
+</p>
