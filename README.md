@@ -11,11 +11,29 @@
 
 ```python
 class Me:
-  education: 'BS, High-Performance Computing and Quantum Informatics'
-  languages: ['English', 'Russian', 'Python', 'JavaScript', 'C++']
-  verticals: ['Spatial Data', 'Computer Vision', 'Brain-Computer Interfaces', 'Music']
+  education: 'BS, Computer Science'
+  languages: [
+    '🇬🇧 English',
+    '🇷🇺 Russian',
+    '🇦🇲 Armenian',
+    '🐍 Python',
+    '🕸 JavaScript',
+    '🤖 C++',
+  ]
+  verticals: [
+    '🌍 Spatial Data',
+    '👀 Computer Vision',
+    '🧠 Brain-Computer Interfaces',
+    '🎵 Music',
+  ]
+  experience: {
+    'SWE': '9+ years',
+    'CTO': '3+ years',
+  }
+  
+  def __str__(self):
+    return "Dima Matasov: <Senior SWE @ Biodock, exCTO Neiry-BCI & BestPlace.ai>"
 ```
-
 
 <div id="header" align="center">
   <img src="https://i.kym-cdn.com/photos/images/original/001/010/572/5e5.gif" width="100%" height="400px"/>
