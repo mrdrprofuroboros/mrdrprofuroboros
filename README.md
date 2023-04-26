@@ -27,7 +27,7 @@ class Me:
     '🎵 Music',
   ]
   experience: {
-    'SWE': '9+ years',
+    'SWE': '10+ years',
     'CTO': '3+ years',
   }
   
