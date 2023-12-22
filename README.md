@@ -32,7 +32,7 @@ class Me:
   }
   
   def __str__(self):
-    return "Dima Matasov: <Senior SWE @ Biodock, exCTO Neiry-BCI & BestPlace.ai>"
+    return "Dima Matasov: <SWE @ Meta, exCTO Neiry-BCI & BestPlace.ai>"
 ```
 
 <div id="header" align="center">
