@@ -25,14 +25,15 @@ class Me:
     '👀 Computer Vision',
     '🧠 Brain-Computer Interfaces',
     '🎵 Music',
+    '🤖 Agents',
   ]
   experience: {
-    'SWE': '10+ years',
-    'CTO': '3+ years',
+    'SWE': '11+ years',
+    'CTO': '4+ years',
   }
   
   def __str__(self):
-    return "Dima Matasov: <SWE @ Meta, exCTO Neiry-BCI & BestPlace.ai>"
+    return "Dima Matasov: <exMeta RealityLabs, exCTO Neiry-BCI & BestPlace.ai>"
 ```
 
 <div id="header" align="center">
